@@ -1,26 +1,14 @@
+3/24/22 8:05 AM
 Project Statistics
 
-Total:
-	Segments	0
-	Words	0
-	Characters (without spaces)	0
-	Characters (including spaces)	0
-Remaining:
-	Segments	0
-	Words	0
-	Characters (without spaces)	0
-	Characters (including spaces)	0
-Unique:
-	Segments	0
-	Words	0
-	Characters (without spaces)	0
-	Characters (including spaces)	0
-Unique Remaining:
-	Segments	0
-	Words	0
-	Characters (without spaces)	0
-	Characters (including spaces)	0
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	     109	 1379	                       6945	                         8187	     1	
+Remaining:       	     109	 1379	                       6945	                         8187	     1	
+Unique:          	     106	 1370	                       6906	                         8142	     1	
+Unique Remaining:	     106	 1370	                       6906	                         8142	     1	
+
 
 Individual File Statistics:
 
-File Name	Total Words	Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)
+File Name   	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+Demanda.docx	           109	               109	            106	                      106	       1379	           1379	        1370	                  1370	                             6945	                                 6945	                              6906	                                        6906	                               8187	                                   8187	                                8142	                                          8142	
