@@ -1,0 +1,26 @@
+Project Statistics
+
+Total:
+	Segments	0
+	Words	0
+	Characters (without spaces)	0
+	Characters (including spaces)	0
+Remaining:
+	Segments	0
+	Words	0
+	Characters (without spaces)	0
+	Characters (including spaces)	0
+Unique:
+	Segments	0
+	Words	0
+	Characters (without spaces)	0
+	Characters (including spaces)	0
+Unique Remaining:
+	Segments	0
+	Words	0
+	Characters (without spaces)	0
+	Characters (including spaces)	0
+
+Individual File Statistics:
+
+File Name	Total Words	Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)
