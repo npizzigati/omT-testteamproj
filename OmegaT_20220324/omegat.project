@@ -22,5 +22,10 @@
         <sentence_seg>true</sentence_seg>
         <support_default_translations>true</support_default_translations>
         <remove_tags>false</remove_tags>
+        <repositories>
+            <repository type="git" url="ssh://git@github.com:npizzigati/omT-testteamproj.git">
+                <mapping local="" repository=""/>
+            </repository>
+        </repositories>
     </project>
 </omegat>
